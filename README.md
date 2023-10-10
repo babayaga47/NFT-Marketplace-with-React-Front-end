@@ -1,6 +1,12 @@
 
 # To Install and Run the Project
 
+At start in Terminal
+ ```
+npm i
+
+```
+
 1. start local dfx
 
 ```
